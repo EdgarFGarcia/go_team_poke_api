@@ -5,8 +5,8 @@ run the following command first
 composer install
 ```
 
-set ```env``` database access to your desired config
-run
+set ```env``` database access to your desired config, 
+then run
 ```
 php artisan migrate
 ```
